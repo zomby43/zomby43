@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @zomby43
-- 🌱 I’m currently learning HTML, CSS, Javascript, SQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, Angular, Ionic, Firebase
