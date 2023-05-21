@@ -18,7 +18,7 @@ I'm a music producer, glitch artist, Sound Engineer and future IT professional f
 
 ## My GitHub Stats
 
-![Zomby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zomby&show_icons=true&theme=tokyonight)
+![Zomby's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomby43&show_icons=true&theme=tokyonight)
 
 ## My Creative Works
 
