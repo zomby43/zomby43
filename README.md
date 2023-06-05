@@ -14,12 +14,6 @@ I'm a music producer, glitch artist, Sound Engineer and future IT professional f
 
 📫 **How to reach me:** Shoot me an email at pa.infante@protonmail.com, or reach out to me on [Instagram](https://www.instagram.com/z0mb0t_/).
 
-🎧 **Fun fact:** I'm a synth nerd.
-
-## My GitHub Stats
-
-![Zomby's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomby43&show_icons=true&theme=tokyonight)
-
 ## My Creative Works
 
 I am also a musician and artist. You can check out some of my works below.
