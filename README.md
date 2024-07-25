@@ -6,7 +6,7 @@
 
 💬 **Ask me about:** Music production, glitch art, videogames, tech.
 
-📫 **How to reach me:** Send me an email at pa.infante@protonmail.com or Discord: https://discord.com/users/zomby./
+📫 **How to reach me:** Send me an email at z0mb0t@proton.me or Discord: https://discord.com/users/zomby./
 
 Gracias!
 
