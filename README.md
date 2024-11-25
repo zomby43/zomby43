@@ -1,8 +1,8 @@
 # Hello 👋
 
-🔭 **Currently working on:** Improving my programming skills making music / art.
+🔭 **Currently working on:** Improving my programming skills, making music / art.
 
-🌱 **Currently learning:** Different HTML/CSS and Web Frameworks.
+🌱 **Currently learning:** HTML/CSS/JS and Web Frameworks.
 
 💬 **Ask me about:** Music production, glitch art, videogames, tech.
 
